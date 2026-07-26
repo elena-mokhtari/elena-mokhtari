@@ -22,13 +22,13 @@ class Elena:
         self.current_project = "BRFSS 2015 Diabetes Health Indicators Analysis"
         self.mindset = "learning step by step and enjoying the process"
 ```
-
-i enjoy working with data  
+```text
+I enjoy working with data  
 cleaning it exploring it and slowly turning it into something meaningful
 
 right now im learning more about data analysis and machine learning  
 and building my skills one project at a time
-
+```
 ---
 
 ## skills
@@ -73,15 +73,6 @@ the goal is not to prove direct causation but to discover useful patterns and re
 
 ---
 
-## github stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elena-mokhtari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elena-mokhtari&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="top languages" />
-</div>
-
----
-
 ## little note
 
 ```python
@@ -106,7 +97,3 @@ while learning:
 
 ---
 
-<div align="center">
-  soft colors • curious mind • one project at a time 🌷
-</div>
-```
