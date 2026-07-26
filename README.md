@@ -87,7 +87,7 @@ while learning:
 ## connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/elena-mokhtari">
+  <a href="https://www.linkedin.com/in/elena-mokhtari-b40a1b23a/">
     <img src="https://img.shields.io/badge/linkedin-cdb4db?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:elena.mkhtr85@gmail.com">
