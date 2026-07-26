@@ -1,6 +1,8 @@
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=E9D5FF&height=220&section=header&text=Elena%20Mokhtari&fontSize=42&fontColor=7C3AED&animation=fadeIn&fontAlignY=38" />
 
-<h1>Hey there! I'm Elena 👋</h1>
+<h1>𝓱𝓮𝔂 𝓽𝓱𝓮𝓻𝓮  𝓲𝓶 𝓔𝓵𝓮𝓷𝓪 👋</h1>
 
 <p>
   data analysis  machine learning  python  sql
@@ -15,14 +17,15 @@
 ---
 
 ## about me
-```python
+
+python
 class Elena:
-def __init__(self):
-self.role = "data analysis and machine learning enthusiast"
-self.learning = ["python", "sql", "data analysis", "ml fundamentals"]
-self.favorite_part = "finding patterns and making sense of data"
-self.current_project = "BRFSS 2015 Diabetes Health Indicators Analysis"
-self.mindset = "learning step by step and enjoying the process"
+    def __init__(self):
+        self.role = "data analysis and machine learning enthusiast"
+        self.learning = ["python", "sql", "data analysis", "ml fundamentals"]
+        self.favorite_part = "finding patterns and making sense of data"
+        self.current_project = "BRFSS 2015 Diabetes Health Indicators Analysis"
+        self.mindset = "learning step by step and enjoying the process"
 i enjoy working with data
 
 cleaning it exploring it and slowly turning it into something meaningful
@@ -47,20 +50,20 @@ git and github   for sharing and tracking projects
 featured project
 python
 project = {
-"name": "BRFSS 2015 Diabetes Health Indicators Analysis",
-"type": "exploratory data analysis",
-"focus": [
-"BMI",
-"age",
-"blood pressure",
-"cholesterol",
-"physical health",
-"mental health",
-"income",
-"education",
-"lifestyle habits"
-],
-"goal": "find meaningful patterns and relationships in the data"
+    "name": "BRFSS 2015 Diabetes Health Indicators Analysis",
+    "type": "exploratory data analysis",
+    "focus": [
+        "BMI",
+        "age",
+        "blood pressure",
+        "cholesterol",
+        "physical health",
+        "mental health",
+        "income",
+        "education",
+        "lifestyle habits"
+    ],
+    "goal": "find meaningful patterns and relationships in the data"
 }
 this project explores the BRFSS 2015 diabetes health indicators dataset
 
@@ -78,20 +81,22 @@ github stats
 little note
 python
 while learning:
-stay curious
-trust the process
-keep building
+    stay curious
+    trust the process
+    keep building
 connect with me
 <p align=“left”>
 
 <a href=“https://www.linkedin.com/in/elena-mokhtari”>
 
-<img src="https://img.shields.io/badge/linkedin-cdb4db?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+<img src=“https://img.shields.io/badge/linkedin-cdb4db?style=for-the-badge&logo=linkedin&logoColor=white” alt=“linkedin” />
+
 </a>
 
-<a href=“mailto:elena.mkhtr85@gmail.com”>
+<a href="mailto:elena.mkhtr85@gmail.com">
 
-<img src="https://img.shields.io/badge/email-d8b4fe?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+<img src=“https://img.shields.io/badge/email-d8b4fe?style=for-the-badge&logo=gmail&logoColor=white” alt=“email” />
+
 </a>
 
 </p>
